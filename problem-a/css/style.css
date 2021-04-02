@@ -1,0 +1,28 @@
+/* Header */
+h1 {
+    font-family: 'Helvetica';
+    color: white;
+    background-color: rgb(14, 26, 196);
+    padding: 1em;
+}
+
+/* Main content */
+p {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5
+    
+}
+img {
+    height: 400px;
+    object-fit: cover;
+}
+
+li {
+    color: black;
+}
+
+/* Extra additions */
+.highlighted {
+    background-color: yellow;
+}
